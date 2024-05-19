@@ -1,6 +1,7 @@
 **HermitPurple: A Comprehensive Data Extraction and Analysis Transform for Maltego**
 
 **Overview**
+
 HermitPurple is an advanced Transform designed for Maltego, focusing on robust data extraction and analysis capabilities across various digital environments, including the Tor network, surface web, and specialized search platforms like Ahmia. This tool is especially valuable for cybersecurity professionals, digital forensic investigators, and researchers who need to delve into both the surface and dark web to gather intelligence and conduct thorough digital investigations.
 
 **Features**
