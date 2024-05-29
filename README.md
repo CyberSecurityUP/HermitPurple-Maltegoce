@@ -22,6 +22,10 @@ HermitPurple-Maltegoce is a collection of Maltego transforms for advanced data e
    ```bash
    pip install -r requirements.txt
    ```
+3. Configuration TelegramExplorer:
+```
+https://telegramexplorer.readthedocs.io/
+```
 
 ## Usage
 
