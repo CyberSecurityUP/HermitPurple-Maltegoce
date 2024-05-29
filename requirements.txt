@@ -1,1 +1,6 @@
+requests
+beautifulsoup4
+pillow
+telethon
 maltego-trx
+TelegramExplorer
