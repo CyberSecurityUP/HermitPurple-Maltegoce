@@ -47,6 +47,9 @@ For any questions or inquiries, please open an issue or contact us at [LinkedIn]
 
 **Author**
 - **Joas A Santos**
+
+**Credits**
+- GuiBacellar for TelegramExplorer
   
 ---
 
