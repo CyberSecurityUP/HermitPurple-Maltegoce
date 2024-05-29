@@ -1,5 +1,3 @@
-**HermitPurple: A Comprehensive Data Extraction and Analysis Transform for Maltego**
-
 # HermitPurple-Maltegoce
 
 HermitPurple-Maltegoce is a collection of Maltego transforms for advanced data extraction and analysis. This repository provides a set of tools to enhance your cybersecurity investigations and research.
